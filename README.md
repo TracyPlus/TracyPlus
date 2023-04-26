@@ -6,8 +6,7 @@
 
 **About me**
 
-- 💼 I'm a sophomore student from Fudan University,
-majoring in Computer Science
+- 💼 I'm a CS sophomore from Fudan University
 <!--  -->
 - 😄 I'm a self-taught passionate FrontEnd developer
 <!--  -->
