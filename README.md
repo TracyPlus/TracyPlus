@@ -6,13 +6,13 @@
 
 **About me**
 
-- 💼 I'm a CS sophomore from Fudan University
+- 💼 I'm a CS junior from Fudan University
 <!--  -->
-- 😄 I'm a self-taught passionate FrontEnd developer
+- 😄 I'm a self-motivated passionate BackendEnd developer
 <!--  -->
-- 🌱 I’m currently learning react/Javascript/Typescript ...
+- 🌱 I’m currently learning Java ...
 <!--  -->
-- 👯 I'm a trust-worthy team member, currently working on MarsOJ team
+- 👯 I'm a trust-worthy team member, currently working at data platform ...
 <!--  -->
 <!-- - ❤️ I love writing TypeScript, and building fun experiments on type-level -->
 
